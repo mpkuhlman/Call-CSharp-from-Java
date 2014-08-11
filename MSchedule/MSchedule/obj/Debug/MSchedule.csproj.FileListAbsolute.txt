@@ -1,0 +1,5 @@
+D:\dev\LangTransition\MSchedule\MSchedule\obj\Debug\MSchedule.csprojResolveAssemblyReference.cache
+D:\dev\LangTransition\MSchedule\MSchedule\bin\Debug\MSchedule.dll
+D:\dev\LangTransition\MSchedule\MSchedule\bin\Debug\MSchedule.pdb
+D:\dev\LangTransition\MSchedule\MSchedule\obj\Debug\MSchedule.dll
+D:\dev\LangTransition\MSchedule\MSchedule\obj\Debug\MSchedule.pdb
